@@ -5,3 +5,35 @@
 .color {
     color: #4A4A4A;
 }
+
+.c-font-size {
+    font-size: 60px;
+}
+
+.c-bg {
+    background-color: #1D1D1D;
+}
+
+.c-container {
+    position: absolute;
+    margin-top: 25px;
+    width: 60%;
+    margin: auto;
+
+}
+
+.carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0%;
+    bottom: 0;
+    right: 0;
+    background: #1D1D1D;
+    opacity: 0.7;
+}
+
+.p-courses {
+    color: #1D1D1D;
+}
