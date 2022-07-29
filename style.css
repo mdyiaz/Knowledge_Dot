@@ -1,31 +1,29 @@
-.N-font-size {
+.navbar-font-size {
     font-size: 40px;
 }
 
-.color {
+.navbar-color {
     color: #4A4A4A;
 }
 
-.c-font-size {
-    font-size: 60px;
+.carousel-font-size {
+    font-size: 40px;
 }
 
-.c-bg {
-    background-color: #1D1D1D;
-}
 
-.c-img {
+
+.carousel-img {
     filter: brightness(60%);
-    height: 700px;
+    height: 650px;
     max-block-size: 100vh;
 }
 
-.c-container {
+.carousel-container {
     padding-bottom: 150px;
 }
 
-.height {
-    height: 200px;
+.course-card-height {
+    height: 250px;
 }
 
 .modal-header {
@@ -33,11 +31,11 @@
     color: white;
 }
 
-.m-width {
+.modal-width {
     width: 50%;
     text-align: center;
 }
 
-.f-small {
+.feedback-small {
     font-size: small;
 }
